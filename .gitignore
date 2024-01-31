@@ -1,5 +1,10 @@
 *.exe
 *.csv
+*/dataset/*
+*/val_dataset/*
+*/val_images/*
+*/Val_Pokemon_data/*
+*/Pokemon_data/*
 *.bat
 share/*
 dataset/*
@@ -19,3 +24,6 @@ activate_this.py
 */Images/*
 *.zip
 *.pkl
+*/glove.6B.50d.txt
+*.mid
+*/midi_songs/*
