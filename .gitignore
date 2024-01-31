@@ -18,12 +18,13 @@ pywin32_postinstall.py
 pywin32_testall.py
 activate_this.py
 *.ps1
-*.png
+*/cartpole_weights/*
 *.jpg
 */ml-100k/*
 */Images/*
 *.zip
 *.pkl
+*/gan_model/*
 */glove.6B.50d.txt
 *.mid
 */midi_songs/*
